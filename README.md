@@ -2,7 +2,7 @@
 A list of links to useful info related to Japan's agricultural sector.
 
 ## Contributing
-All kinds of contributions are welcome! 
+All kinds of contributions from design to organization to content are welcome! 
 
 If you are adding links, adhere to the following rules and conventions:
 * check that link is not a duplicate
@@ -50,6 +50,7 @@ If you are adding links, adhere to the following rules and conventions:
 * [栽培の基礎](https://www.ja-sapporo.or.jp/agriculture/grow/cultivation.html)
 * [育て方がわかる植物図鑑](https://www.shuminoengei.jp/?m=pc&a=page_p_top)
 * [植物図鑑](https://lovegreen.net/library/)
+* [鶴田 祐一郎 の記事一覧](https://agri.mynavi.jp/author/tsuruta_yuichiro/)
 
 ### 地域区分
 #### 農振法区分
