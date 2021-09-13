@@ -1,8 +1,8 @@
 # Useful links for Japan's agriculture
-A list of links to useful info related to Japan's agricultural sector.
+A list of links to useful info (in Japanese) related to Japan's agricultural sector.
 
 ## Contributing
-All kinds of contributions from design to organization to content are welcome! 
+All kinds of contributions are welcome! 
 
 If you are adding links, adhere to the following rules and conventions:
 * check that link is not a duplicate
@@ -13,6 +13,7 @@ If you are adding links, adhere to the following rules and conventions:
 ### 人と農地の問題
 * [農地中間管理機構を活用した人・農地問題の解決](https://www.maff.go.jp/j/keiei/koukai/hito_nouchi.html)
 * [荒廃農地の発生防止・解消等](https://www.maff.go.jp/j/nousin/tikei/houkiti/)
+
 ### 政府機関関連情報
 * [農林水産省](https://www.maff.go.jp/)
 * [関東農政局](https://www.maff.go.jp/kanto/)
@@ -71,3 +72,6 @@ If you are adding links, adhere to the following rules and conventions:
 * [農地中間管理事業の推進に関する法律](https://elaws.e-gov.go.jp/document?lawid=425AC0000000101_20200401_501AC0000000012)
 * [農地中間管理機構に賃貸借により貸し付けられている農地の評価](https://www.nta.go.jp/law/shitsugi/hyoka/04/48.htm)
 
+### 田園回帰
+* [『農地付き空き家』の手引き](https://www.mlit.go.jp/common/001226568.pdf)
+* [LIFULL HOME'S 空き家バンク](https://www.homes.co.jp/akiyabank/)
