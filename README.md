@@ -77,7 +77,7 @@
 * [アットホーム 空き家バンク](https://www.akiya-athome.jp/bukken/search/list/?freeword=%E8%BE%B2%E5%9C%B0%E4%BB%98&search_type=freeword&br_kbn=buy&sbt_kbn=house)
 
 ### 農地炭素貯留
-* [潜在的なCO2吸収源として注⽬される農地](https://www.akiya-athome.jp/)
+* [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/14/pdf/ref_data3_5.pdf)
 
 ## 貢献の仕方
 あらゆる種類の改善を歓迎しています！
