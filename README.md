@@ -3,6 +3,7 @@
 ### 人と農地の問題
 * [農地中間管理機構を活用した人・農地問題の解決](https://www.maff.go.jp/j/keiei/koukai/hito_nouchi.html)
 * [荒廃農地の発生防止・解消等](https://www.maff.go.jp/j/nousin/tikei/houkiti/)
+* [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/13/pdf/data3_3.pdf)
 
 ### 政府機関関連情報
 * [農林水産省](https://www.maff.go.jp/)
@@ -65,6 +66,9 @@
 ### 田園回帰
 * [『農地付き空き家』の手引き](https://www.mlit.go.jp/common/001226568.pdf)
 * [LIFULL HOME'S 空き家バンク](https://www.homes.co.jp/akiyabank/)
+
+### 農地炭素貯留
+* [潜在的なCO2吸収源として注⽬される農地](https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2021/04/15/2104i_nozaki.pdf)
 
 ## 貢献の仕方
 あらゆる種類の改善を歓迎しています！
