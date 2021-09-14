@@ -5,8 +5,9 @@
 * [荒廃農地の発生防止・解消等](https://www.maff.go.jp/j/nousin/tikei/houkiti/)
 * [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/13/pdf/data3_3.pdf)
 
-### 政府機関関連情報
+### 農林水産省
 * [農林水産省](https://www.maff.go.jp/)
+#### 地方農政局
 * [関東農政局](https://www.maff.go.jp/kanto/)
 * [北海道農政事務所](https://www.maff.go.jp/hokkaido/)
 * [北陸農政局](https://www.maff.go.jp/hokuriku/)
@@ -15,6 +16,12 @@
 * [九州農政局](https://www.maff.go.jp/kyusyu/)
 * [近畿農政局](https://www.maff.go.jp/kinki/)
 * [中国四国農政局](https://www.maff.go.jp/chushi/)
+
+### JAグループ
+* [JAグループ](https://life.ja-group.jp/)
+
+### 農業関連団体
+* [全国農業会議所](https://www.nca.or.jp/)
 
 ### 農業はじめての方
 #### 政府機関関連
