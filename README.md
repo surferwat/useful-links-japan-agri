@@ -72,10 +72,12 @@
 
 ### 田園回帰
 * [『農地付き空き家』の手引き](https://www.mlit.go.jp/common/001226568.pdf)
+* [『農地付き空き家』の手引きについて](https://www.zennichi.or.jp/wp-content/uploads/2018/03/b80547d11e10e155dc70bc6f18c97877.pdf)
 * [LIFULL HOME'S 空き家バンク](https://www.homes.co.jp/akiyabank/)
+* [アットホーム 空き家バンク](https://www.akiya-athome.jp/bukken/search/list/?freeword=%E8%BE%B2%E5%9C%B0%E4%BB%98&search_type=freeword&br_kbn=buy&sbt_kbn=house)
 
 ### 農地炭素貯留
-* [潜在的なCO2吸収源として注⽬される農地](https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2021/04/15/2104i_nozaki.pdf)
+* [潜在的なCO2吸収源として注⽬される農地](https://www.akiya-athome.jp/)
 
 ## 貢献の仕方
 あらゆる種類の改善を歓迎しています！
