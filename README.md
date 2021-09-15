@@ -79,6 +79,12 @@
 ### 農地炭素貯留
 * [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/14/pdf/ref_data3_5.pdf)
 
+### スマート農業
+* [スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
+* [ス マ ー ト 農 業 の 展 開 に つ い て](https://www.maff.go.jp/j/kanbo/smart/attach/pdf/index-23.pdf)
+* [農業データ連携基盤について](https://www.maff.go.jp/j/kanbo/smart/pdf/wagri_gaiyou.pdf)
+* [WAGRI](https://wagri.net/ja-jp/aboutwagri)
+
 ## 貢献の仕方
 あらゆる種類の改善を歓迎しています！
 
