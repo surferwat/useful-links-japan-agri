@@ -82,7 +82,9 @@
 ### スマート農業
 * [スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
 * [ス マ ー ト 農 業 の 展 開 に つ い て](https://www.maff.go.jp/j/kanbo/smart/attach/pdf/index-23.pdf)
+* [「スマート農業実証プロジェクト」について](https://www.affrc.maff.go.jp/docs/smart_agri_pro/smart_agri_pro.htm)
 * [農業データ連携基盤について](https://www.maff.go.jp/j/kanbo/smart/pdf/wagri_gaiyou.pdf)
+* [農業データの利活用促進に向けた取組状況について](https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/nousui/20200131/200131nousui09.pdf)
 * [WAGRI](https://wagri.net/ja-jp/aboutwagri)
 
 ## 貢献の仕方
