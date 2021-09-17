@@ -73,15 +73,14 @@
 ### 田園回帰
 * [『農地付き空き家』の手引き](https://www.mlit.go.jp/common/001226568.pdf)
 * [『農地付き空き家』の手引きについて](https://www.zennichi.or.jp/wp-content/uploads/2018/03/b80547d11e10e155dc70bc6f18c97877.pdf)
-* [LIFULL HOME'S 空き家バンク](https://www.homes.co.jp/akiyabank/)
-* [アットホーム 空き家バンク](https://www.akiya-athome.jp/bukken/search/list/?freeword=%E8%BE%B2%E5%9C%B0%E4%BB%98&search_type=freeword&br_kbn=buy&sbt_kbn=house)
+* [空き家・空き地バンク総合情報ページ](https://www.mlit.go.jp/totikensangyo/const/sosei_const_tk3_000131.html)
 
 ### 農地炭素貯留
 * [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/14/pdf/ref_data3_5.pdf)
 
 ### スマート農業
 * [スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
-* [ス マ ー ト 農 業 の 展 開 に つ い て](https://www.maff.go.jp/j/kanbo/smart/attach/pdf/index-23.pdf)
+* [スマート農業の展開について](https://www.maff.go.jp/j/kanbo/smart/attach/pdf/index-23.pdf)
 * [「スマート農業実証プロジェクト」について](https://www.affrc.maff.go.jp/docs/smart_agri_pro/smart_agri_pro.htm)
 * [農業データ連携基盤について](https://www.maff.go.jp/j/kanbo/smart/pdf/wagri_gaiyou.pdf)
 * [農業データの利活用促進に向けた取組状況について](https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/nousui/20200131/200131nousui09.pdf)
