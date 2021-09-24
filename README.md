@@ -77,6 +77,8 @@
 
 ### 農地炭素貯留
 * [農地による炭素貯留について](https://www.maff.go.jp/j/council/seisaku/kikaku/goudou/14/pdf/ref_data3_5.pdf)
+* [農地土壌における炭素貯留量算定システムの開発](http://www.naro.affrc.go.jp/archive/niaes/sinfo/result/result30/result30_02.html)
+* [土壌のCO2吸収「見える化」サイトの紹介とデモ](https://www.maff.go.jp/j/kanbo/kankyo/seisaku/climate/agsol/3-C-2.pdf)
 
 ### スマート農業
 * [スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
